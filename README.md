@@ -26,6 +26,7 @@
   <a href="https://www.linkedin.com/in/ajay-singh-33795924b"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/Imajay_06"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:asp44556@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+
 </p>
 <h2 align="center">💡 Fun Fact about me!</h2>
 <p align="center">"Tech enthusiast alert! Always on the lookout for the newest trends and innovations in the tech realm."</p>
