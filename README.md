@@ -1,7 +1,5 @@
 
-<p align="center">
- 
-</p>
+
 <h1 align="center">👋 Hello, I'm Ajay!</h1>
 <p align="center">Welcome to my GitHub profile! I'm passionate about technology, web development, and exploring the latest trends in the tech world.</p>
 <h2 align="center">🚀 About Me</h2>
