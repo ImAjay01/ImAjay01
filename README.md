@@ -5,7 +5,7 @@
 <h2 align="center">🚀 About Me</h2>
 <ul>
   <li>🌱 I’m currently learning <b> Web Development</b>.</li>
-  <li>💼 I'm interested in <b>Frontend Development, and Artificial Intelligence, Cloud and security</b>.</li>
+  <li>💼 I'm interested in <b>Frontend Development,  Artificial Intelligence,and Cloud and security</b>.</li>
   <li>🎓 I am persuing a degree in <b>Computer Science</b>.</li>
   <li>📚 I love to read about <b>new programming languages, tech innovations</b>.</li>
   <li>💬 Feel free to reach out to me for <b>collaboration on open-source projects or tech discussions</b>.</li>
